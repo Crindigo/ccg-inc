@@ -1,4 +1,5 @@
 import BaseComponent from './base-component';
+import { Tier1Pack } from './cards/tier1';
 
 class CCG {
     constructor(selector) {
